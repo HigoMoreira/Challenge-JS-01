@@ -2,6 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/107502907/180659136-47052a6c-e640-4cd8-aad5-ab81f0e560a5.png)
 
+
+------------------- Português -----------------------
+
+
 Aplicação de operadores matemáticos feita com HTML, CSS e JavaScript.
 
 Ao clicar no botão calcular, o usuário primeiramente se identifica com seu nome, 
@@ -25,7 +29,7 @@ E se digitar qualquer outro valor diferente de 1 ou 2, também será apresentado
 
 
 
-------------------- translated to English -----------------------
+------------------- English -----------------------
 
 
 
