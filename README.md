@@ -1,4 +1,4 @@
-# Challenge-JS-01
+# Math-Operations
 
 ![image](https://user-images.githubusercontent.com/107502907/180659136-47052a6c-e640-4cd8-aad5-ab81f0e560a5.png)
 
