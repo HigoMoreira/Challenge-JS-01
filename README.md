@@ -1,4 +1,4 @@
-# Higo's Math Operations
+# Higo's Math Operations 🧮
 
 Aplicação de operadores matemáticos com introdução aos estudos de JavaScript.
 
@@ -43,7 +43,7 @@ Para conferir a aplicação, acesse:
 #
 # 🌎 English
 
-# Higo's Math Operations
+# Higo's Math Operations 🧮
 
 Application of mathematical operators with an introduction to JavaScript studies.
 
